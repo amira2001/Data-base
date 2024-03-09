@@ -31,3 +31,5 @@ INSERT INTO books (title, author_id, year_published, price) VALUES ('1984', 2, 1
 
 INSERT INTO customers (first_name, last_name, email, city) VALUES ('John', 'Doe', 'john.doe@example.com','UK');
 INSERT INTO customers (first_name, last_name, email, city) VALUES ('Jane', 'Doe', 'jane.doe@example.com','eup');
+INSERT INTO customers (first_name, last_name, email, city) VALUES ('Amira', 'BENABBAS', 'amirabenabbas@gmail.com','UK');
+INSERT INTO customers (first_name, last_name, email, city) VALUES ('Sarah', 'zemirli', 'sara@example.com','AAA');
